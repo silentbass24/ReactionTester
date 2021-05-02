@@ -1,11 +1,14 @@
+/*Style rules for titles*/
 h1, h3{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+/*Style rules for paragraph*/
 p{
     font-weight: bold;
     margin-left: 15px;
 }
+/*Rules to create a circle invisible*/
 #container-figura{
     width: 200px;
     height: 200px;
